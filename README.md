@@ -1,7 +1,7 @@
 <h1>Linking a database to a react app</h1>
 
 STEP1:
-Setting up fire base
+Setting up a fire base database
 
 first navigate to [firebase.com](https://firebase.google.com/)
 
@@ -35,4 +35,4 @@ import { getStorage, ref, uploadBytes } from "firebase/storage";
 
 <hr>
 TASK1:
-Sett up a react app that adds the user’s name and email address to a firebase database.
+Set up a react app that adds the user’s name and email address to a firebase database.
