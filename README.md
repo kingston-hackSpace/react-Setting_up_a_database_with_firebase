@@ -3,7 +3,7 @@
 STEP1:
 Setting up fire base
 
-first navigate to [firebase.com](“https://firebase.google.com/“)
+first navigate to ["https://firebase.google.com/"](firebase.com)
 
 Sign in or sign up to access the firebase dashboard.
 
