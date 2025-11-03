@@ -33,5 +33,6 @@ import { getFirestore, collection, getDocs, doc, setDoc ,addDoc} from 'firebase/
 import { getStorage, ref, uploadBytes } from "firebase/storage";
 </code>
 
+<hr>
 TASK1:
 Sett up a react app that adds the user’s name and email address to a firebase database.
